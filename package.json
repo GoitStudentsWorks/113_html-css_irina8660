@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/command-project/",
+    "build": "vite build --base=/113_html-css_irina8660/",
     "preview": "vite preview"
   },
   "devDependencies": {
